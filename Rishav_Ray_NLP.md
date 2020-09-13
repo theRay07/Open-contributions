@@ -3,5 +3,11 @@
 Transformers
 LSTM
 GRU
-Attention
+Attention mechanism
+Chatbots
+Sentiment Analysis
+Stemming
+Lematization
+Tokenization
+Stop words removal
 ```
